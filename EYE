@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EYE Token</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>EYE Token 👁️</h1>
+      <p>The Future of Vision in Web3</p>
+      <a href="#buy" class="btn">Buy EYE</a>
+    </div>
+  </header>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2>About EYE</h2>
+      <p>
+        EYE is a visionary crypto token designed to bring clarity and transparency to decentralized finance. Built on cutting-edge blockchain technology, EYE is your window to the future of Web3.
+      </p>
+    </div>
+  </section>
+
+  <section id="tokenomics" class="section">
+    <div class="container">
+      <h2>Tokenomics</h2>
+      <ul>
+        <li><strong>Total Supply:</strong> 1,000,000,000 EYE</li>
+        <li><strong>Presale:</strong> 30%</li>
+        <li><strong>Liquidity:</strong> 20%</li>
+        <li><strong>Marketing:</strong> 15%</li>
+        <li><strong>Team & Advisors:</strong> 15%</li>
+        <li><strong>Reserve & Development:</strong> 20%</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="roadmap" class="section">
+    <div class="container">
+      <h2>Roadmap</h2>
+      <ol>
+        <li><strong>Q2 2025:</strong> Token launch & presale</li>
+        <li><strong>Q3 2025:</strong> CEX/DEX listings</li>
+        <li><strong>Q4 2025:</strong> NFT integration</li>
+        <li><strong>Q1 2026:</strong> VisionChain Testnet</li>
+        <li><strong>Q2 2026:</strong> VisionChain Mainnet</li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="buy" class="section">
+    <div class="container">
+      <h2>Join the EYE Movement</h2>
+      <p>Be part of the future of Web3 transparency. Get your EYE tokens now.</p>
+      <a href="#" class="btn">Buy EYE Now</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 EYE Token. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
